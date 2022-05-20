@@ -1,0 +1,12 @@
+{
+  "name": "js-date-handling",
+  "version": "1.0.0",
+  "description": "The main goal of this project is exploring some date manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Daniel Santana Ribeiro",
+  "license": "ISC"
+}
